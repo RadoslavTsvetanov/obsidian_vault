@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d6952395a4cb3699",
+    "type": "split",
+    "children": [
+      {
+        "id": "4000e377d3ba5c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa62e9ec175713f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_vaults/Projects/Obsidian for the web/idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90f43296fec4eec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa77ae67a53cd33e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37f812828e0b40e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b94163ce6266f8b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5a1ca75b82a5a98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36577d7299953709",
+    "type": "split",
+    "children": [
+      {
+        "id": "b202a72c2235a1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7e7ee27f10bf96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian_vaults/thinking and essays/mantalitet/why science cant be trusted fully/plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for plan"
+            }
+          },
+          {
+            "id": "db8252ecb0fbf3ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7409ee89e6d9a663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5e902c0e3de01056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian_vaults/Projects/Obsidian for the web/idea.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of idea"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4aa62e9ec175713f",
+  "lastOpenFiles": [
+    "questions/Untitled.md",
+    "obsidian_vaults/Projects/Obsidian for the web/idea.md",
+    "obsidian_vaults/Projects/Obsidian for the web",
+    "questions/tech",
+    "questions",
+    "obsidian_vaults/gym/Upper 2.md",
+    "obsidian_vaults/Projects/auth-service/node_modules/ts-jest/README.md",
+    "obsidian_vaults/Projects/auth-service/node_modules/ms/license.md",
+    "obsidian_vaults/thinking and essays/random things/effort_to_prize_ratio_the_resource_helping_us_better_spend_our_time_and_resources/main.md",
+    "obsidian_vaults/thinking and essays/mantalitet/why science cant be trusted fully/plan.md",
+    "obsidian_vaults/thinking and essays/mantalitet/why science cant be trusted fully/Why science shouldnt be trusted.md",
+    "obsidian_vaults/thinking and essays/random things/effort_to_prize_ratio_the_resource_helping_us_better_spend_our_time_and_resources",
+    "obsidian_vaults/thinking and essays/politics/why the soviet union is not a good example of why communism works/main.md",
+    "obsidian_vaults/thinking and essays/random things/the problem with studies/main.md",
+    "obsidian_vaults/thinking and essays/random things/the problem with studies",
+    "obsidian_vaults/thinking and essays/random things",
+    "obsidian_vaults/thinking and essays/mantalitet/why science cant be trusted fully",
+    "obsidian_vaults/thinking and essays/politics/research/soviet union was not actually communism/Untitled.md",
+    "obsidian_vaults/thinking and essays/mantalitet",
+    "obsidian_vaults/thinking and essays/politics/research/soviet union was not actually communism/Untitled",
+    "obsidian_vaults/thinking and essays/politics/research/soviet union was not actually communism",
+    "obsidian_vaults/thinking and essays/politics/WHY COMMUNISM DOES NOT WORK/main.md",
+    "obsidian_vaults/thinking and essays/science thingies/statistics/correlation vs causation.md",
+    "obsidian_vaults/thinking and essays/politics/The soviet union, the good, the bad and the why/the economic rise of the soviet union and why comi is not the reason.md",
+    "obsidian_vaults/thinking and essays/politics/The soviet union, the good, the bad and the why/the communism part of the soviet union.md",
+    "obsidian_vaults/thinking and essays/politics/The soviet union, the good, the bad and the why/main.md",
+    "obsidian_vaults/thinking and essays/politics/The soviet union, the good, the bad and the why/dump for random things/Why Russia is deemed to be great.md"
+  ]
+}
